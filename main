@@ -4,7 +4,7 @@ from g4f.client import Client
 from telebot import types
 import threading
 
-TOKEN = '8159158570:AAESvhDiR41KIxqV69WzYnWkgUIL7AU0eyY'
+TOKEN = ''
 CHANNEL_ID = '@RandomNews22'
 
 bot = telebot.TeleBot(TOKEN)
